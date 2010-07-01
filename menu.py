@@ -24,7 +24,7 @@ except ValueError:
 	fontsize = 12
 	fontbold = True 
 
-men_font=pygame.font.SysFont(fontname,fontsize,fontbold)
+menu_font=pygame.font.SysFont(fontname,fontsize,fontbold)
 
 styles = []
 style_elements = ["button"]
